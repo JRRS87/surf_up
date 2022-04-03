@@ -35,3 +35,10 @@ periods.
 - The minimum temp was lower in December (not suprisingly) by 9 degrees
 - However the maximum temp for the time periods were only different by 2 degrees showing 85 vs. 83 respectiveley
 - Although there is a slight difference in smple size I do not beleive it is enough to sway the data in either instance analyzed
+
+#Summary:
+
+The results demonstrate that higher number of customers will be interested on ice cream in the month of June rather than December.
+It will also enhance organization market research in reviewing prospects in home delivery and site locations. It provides future 
+demand forcasts for ice cream and this information will guide in the management for resources(human and capital) effectively and 
+efficieciently for high profitability.
